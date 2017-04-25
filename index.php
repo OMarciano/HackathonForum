@@ -35,9 +35,9 @@
 <!-- header logo: style can be found in header-->
 <header class="header">
     <nav class="navbar navbar-static-top" role="navigation">
-        <a href="index-2.html" class="logo">
+        <a href="index.php" class="logo">
             <!-- Add the class icon to your logo image or logo icon to add the marginin -->
-            <img src="img/logo.png" alt="logo"/>
+            <img src="img/logo.png" alt="logo" widith="100" height="35" />
         </a>
         <!-- Header Navbar: style can be found in header-->
         <!-- Sidebar toggle button-->

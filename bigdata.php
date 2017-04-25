@@ -34,7 +34,7 @@
 <!-- header logo: style can be found in header-->
 <header class="header">
     <nav class="navbar navbar-static-top" role="navigation">
-        <a href="index.html">
+        <a href="index.php">
             <!-- Add the class icon to your logo image or logo icon to add the margining -->
             <img src="img/logo.png" width="100" height="35" />
         </a>
@@ -89,7 +89,7 @@
                 </div>
                          <ul class="navigation">
                     <li class="active" id="active">
-                        <a href="index-2.html">
+                        <a href="index.php">
                             <i class="menu-icon ti-desktop"></i>
                             <span class="mm-text ">Home</span>
                         </a>
@@ -146,7 +146,7 @@
             </h1>
             <ol class="breadcrumb">
                 <li>
-                    <a href="index-2.html">
+                    <a href="index.php">
                         <i class="fa fa-fw ti-home"></i> Dashboard
                     </a>
                 </li>

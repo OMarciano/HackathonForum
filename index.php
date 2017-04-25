@@ -167,7 +167,7 @@
                 </div>
                 <ul class="navigation">
                     <li class="active" id="active">
-                        <a href="index-2.html">
+                        <a href="index.php">
                             <i class="menu-icon ti-desktop"></i>
                             <span class="mm-text ">Home</span>
                         </a>
@@ -214,7 +214,7 @@
 
               
                     <li class="menu-dropdown">
-                        <a href="bigdata.php">
+                        <a href="match.php">
                             <i class="menu-icon ti-widget"></i>
                             <span>Match</span>
                             <span class="fa arrow"></span>

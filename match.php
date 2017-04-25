@@ -176,7 +176,7 @@
                     <li>
                     </li>
                     <li class="menu-dropdown">
-                        <a href="javascript:void(0)">
+                        <a href="adicionar.php">
                             <i class="menu-icon ti-check-box"></i>
                             <span>Adicionar</span>
                             
@@ -184,7 +184,7 @@
 
                     </li>
                     <li class="menu-dropdown">
-                        <a href="#">
+                        <a href="listaeventos.php">
                             <i class="menu-icon ti-desktop"></i>
                             <span>
                                     Eventos
@@ -195,7 +195,7 @@
                     </li>
              
                     <li class="menu-dropdown">
-                        <a href="#">
+                        <a href="bigdata.php">
                             <i class="menu-icon ti-widget"></i>
                             <span>API</span>
                             <span class="fa arrow"></span>
@@ -203,11 +203,26 @@
                  
                     </li>
         
-                    <li class="menu-dropdown">
                
+                    <li class="menu-dropdown">
+                        <a href="localizador.php">
+                            <i class="menu-icon ti-widget"></i>
+                            <span>Localização</span>
+                            <span class="fa arrow"></span>
+                        </a>
+                 
                     </li>
+
               
-             
+                    <li class="menu-dropdown">
+                        <a href="bigdata.php">
+                            <i class="menu-icon ti-widget"></i>
+                            <span>Match</span>
+                            <span class="fa arrow"></span>
+                        </a>
+                 
+                    </li>
+  </li>           
                 
                 </ul>
                 <!-- / .navigation -->
